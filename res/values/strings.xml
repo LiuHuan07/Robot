@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyRobot</string>
+    <string name="hello_world">欢迎使用!</string>
+
+</resources>

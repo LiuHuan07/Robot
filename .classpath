@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="libs"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="lib" path="bin/dexedLibs/android-support-v4-0855e6e1a2c77e6a7fbfe34ddf136801.jar"/>
+	<classpathentry kind="lib" path="bin/dexedLibs/gson-2.2.1-414feda8efb8a96642eec80503d8f5cb.jar"/>
+	<classpathentry kind="lib" path="bin/dexedLibs/gson-2.2.1-sources-f0e961322e53a6dd5c93d7f210d901c6.jar"/>
+	<classpathentry kind="lib" path="bin/dexedLibs/json-f77a92b4c6bbfd9d0cd88264c994fda0.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
