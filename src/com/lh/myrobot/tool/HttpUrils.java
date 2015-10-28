@@ -1,4 +1,4 @@
-package com.lh.myrobot.tool;
+﻿package com.lh.myrobot.tool;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
@@ -20,7 +20,7 @@ import com.lh.myrobot.entity.Chat;
 
 public class HttpUrils {
 	public static final String TURING_URL="http://www.tuling123.com/openapi/api";
-	public static final String API_KEY="d5a16d6af4e9b86e8a181d5b4b3e6b92";
+	public static final String API_KEY="you key";
 	
 	public static Chat deGet(String msg){
 		String url=setParams(msg);
